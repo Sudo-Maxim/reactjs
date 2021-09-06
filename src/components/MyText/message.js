@@ -6,6 +6,5 @@ const NewText = function ({ exc }) {
 
 export const Message = function ({ name }) {
   const exc = "!";
-  const greatings = "Hello,";
-  return (<span className="Message"><span>{greatings} {name}</span><NewText exc={exc} /> </span>);
+  return (<span className="Message"><span>Hello, {name}</span> <NewText exc={exc} /> </span>);
 };

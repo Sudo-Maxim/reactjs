@@ -1,0 +1,18 @@
+.BotMessage {
+    color: #FFF;
+    background-color: #3e4b66;
+    min-height: 30vh;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(14px + 2vmin);
+    padding: 50px 0 0 0;
+  }
+  .BotMessage button {
+    background-color: #3e4b66;
+    border: 1px solid #FFF;
+    color: #FFF;
+    border-radius: 4px;
+    font-size: 16px;
+    margin: 0 20px 0 0;
+  }
+  

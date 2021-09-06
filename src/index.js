@@ -4,9 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const myName = 'Maks';
+/* const myName = 'Maks';
 const messageText = 'Here is a new text message!';
-
+ */
 ReactDOM.render(
   <React.StrictMode>
     <App />
